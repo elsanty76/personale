@@ -1,0 +1,20 @@
+header {
+    background-color: brown;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: azure;
+    padding-left: 2vh;
+    padding-right: 2vh;
+    height: 8vh;
+
+}
+
+.hero {
+    height: 92vh;
+    background-color: aquamarine;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
